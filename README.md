@@ -1,6 +1,6 @@
 ## Criando projeto para consultar a previsão do tempo via API
 
-O objetivo desse laboratório foi realizar a integração de uma *Single Page Application* (SPA) em Angular com a [Open Weather Map API][openweather-api]. Esse exercício também abordou uma forma mais avançada de gerenciamento de estado com o [NgRx][ngrx-ref], além de práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis do Angular.
+Realizar a integração de uma *Single Page Application* (SPA) em Angular com a [Open Weather Map API][openweather-api]. Esse exercício também abordou uma forma mais avançada de gerenciamento de estado com o [NgRx][ngrx-ref], além de práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis do Angular.
 
 
 
